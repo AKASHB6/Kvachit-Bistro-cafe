@@ -16,7 +16,7 @@ body{
 .hero-img{
     height: 100vh;
     width: 100%;
-    background-image: url("hero img.png");
+    background-image: url("/hero-img.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -42,7 +42,7 @@ body{
 .logo{
     height: 40px;
     width: 90px;
-    background-image: url("logo 1.jpeg");
+    background-image: url("/logo-1.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -149,19 +149,19 @@ a{
     border-radius: 10px;
 }
 .swiggy1{
-    background-image: url("Swiggy.png");
+    background-image: url("/Swiggy.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .zomato1{
-    background-image: url("Zomato.png");
+    background-image: url("/Zomato.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .byCall1{
-    background-image: url("byCall.png");
+    background-image: url("/byCall.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -207,7 +207,7 @@ a{
 .about-img{
     height: 45vh;
     width: 50%;
-    background-image: url("about img.png");
+    background-image: url("/about-img.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -322,7 +322,7 @@ a{
 .gallery-img{
     height: 90vh;
     width: 100%;
-    background-image: url("gallery-img.png");
+    background-image: url("/gallery-img.png");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -388,19 +388,19 @@ a{
     border-radius: 10px;
 }
 .swiggy{
-    background-image: url("Swiggy.png");
+    background-image: url("/Swiggy.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .zomato{
-    background-image: url("Zomato.png");
+    background-image: url("/Zomato.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 .byCall{
-    background-image: url("byCall.png");
+    background-image: url("/byCall.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -416,7 +416,7 @@ a{
 .feedback1-2{
     height: 29vh;
     width:20%;
-    background-image: url("footer-img.png");
+    background-image: url("/footer-img.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -465,7 +465,7 @@ a{
     margin: 2% 0 0 15%;
 }
 footer{
-   background-image: url("footer-img2.png"); 
+   background-image: url("/footer-img2.png"); 
    cursor: pointer;
 }
 .footer1{
