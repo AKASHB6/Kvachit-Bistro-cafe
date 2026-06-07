@@ -8,11 +8,11 @@ function toggleMenu() {
 
 // Menu image slider
 const images = [
-    "menu1.jpg",
-    "menu2.jpg",
-    "menu3.jpg",
-    "menu4.jpg",
-    "menu5.jpg"
+    "/menu1.jpg",
+    "/menu2.jpg",
+    "/menu3.jpg",
+    "/menu4.jpg",
+    "/menu5.jpg"
 ];
 
 let index = 0;
